@@ -2,14 +2,14 @@
 
 ```javascript
 
-const life = (): void => {
-  const greet = "Hi 👋, I'm Mohammed Elzanaty, working as a senior software engineer @ Vodafone"
-  const bio = "A passionate teaching-lover, developer, writer, and autodidact. from Egypt"
-  const currentlyLearning = "Cloud [AWS, GCP]"
-  const askMeAbout = "Frontend Technologies"
-  const reachMeAt = "mohammedelzanaty129@gmail.com"
-  const funFact = "I learned programming by chance 😭"
-}
+const life: MZanatyLife = {
+  greet: "Hi 👋, I'm Mohammed Elzanaty, working as a senior software engineer @ Vodafone",
+  bio: 'A passionate teaching-lover, developer, writer, and autodidact. from Egypt',
+  currentlyLearning: 'Cloud [AWS, GCP]',
+  askMeAbout: 'Frontend Technologies',
+  reachMeAt: 'mohammedelzanaty129@gmail.com',
+  funFact: 'I learned programming by chance 😭',
+};
 ``` 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedelzanaty129/)
