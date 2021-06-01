@@ -3,7 +3,7 @@
 ```javascript
 
 const life: MZanatyLife = {
-  greet: "Hi 👋, I'm Mohammed Elzanaty, working as a senior software engineer @ Vodafone",
+  greet: "Hi 👋, I'm Mohammed Elzanaty, working as ND Frontend Lead @udacity & Senior SE @ Vodafone",
   bio: 'A passionate teaching-lover, developer, writer, and autodidact. from Egypt',
   currentlyLearning: 'Cloud [AWS, GCP]',
   askMeAbout: 'Frontend Technologies',
