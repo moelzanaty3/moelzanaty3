@@ -19,7 +19,7 @@ const life: MZanatyLife = {
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dmohammedelzanaty%26type%3Dpatrons&style=flat)](https://patreon.com/mohammedelzanaty)
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=mohammedelzanaty)
 
-[![Buy Me A Coffe](https://img.shields.io/badge/Buy%20Me%20a-%E2%98%95%EF%B8%8F%20coffee-yellow.svg)](https://patreon.com/mohammedelzanaty)
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/moelzanaty)
 
 
 
