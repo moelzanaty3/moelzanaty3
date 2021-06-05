@@ -16,7 +16,13 @@ const life: MZanatyLife = {
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mohammdelzanaty)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/MohammedElzanaty)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbV091yAHp0-59jVmfXJbbw)
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dmohammedelzanaty%26type%3Dpatrons&style=flat)](https://patreon.com/mohammedelzanaty)
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=mohammedelzanaty)
+
+[![Buy Me A Coffe](https://img.shields.io/badge/Buy%20Me%20a-%E2%98%95%EF%B8%8F%20coffee-yellow.svg)](https://patreon.com/mohammedelzanaty)
+
+
+
 <!--
 ### Hi there 👋
 **mohammedelzanaty/mohammedelzanaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
