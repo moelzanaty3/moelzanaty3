@@ -21,7 +21,7 @@ const life: MZanatyLife = {
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/moelzanaty)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedelzanaty&show_icons=true&theme=dark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedelzanaty&show_icons=true&theme=dark) -->
 
 <!--
 ### Hi there 👋
