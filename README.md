@@ -5,10 +5,9 @@
 const life: MZanatyLife = {
   greet: "Hi 👋, I'm Mohammed Elzanaty, working as Senior Technical Lead at _VOIS & Web ND Lead at Udacity",
   bio: 'A passionate teaching-lover, developer, writer, and autodidact. from Egypt',
-  currentlyLearning: 'Cloud [AWS, GCP]',
+  currentlyLearning: 'How can I improve the lives of others?',
   askMeAbout: 'Frontend Technologies',
   reachMeAt: 'mohammedelzanaty129@gmail.com',
-  funFact: 'I learned programming by chance 😭',
 };
 ``` 
 
