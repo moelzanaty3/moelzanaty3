@@ -11,14 +11,14 @@ const life: MZanatyLife = {
 };
 ``` 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedelzanaty129/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mohammdelzanaty)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moelzanaty3/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/moelzanaty3)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/MohammedElzanaty)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/mohammedelzanatyacademy)
-[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dmohammedelzanaty%26type%3Dpatrons&style=flat)](https://patreon.com/mohammedelzanaty)
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=mohammedelzanaty)
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dmohammedelzanaty%26type%3Dpatrons&style=flat)](https://patreon.com/moelzanaty3)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=moelzanaty3)
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/moelzanaty)
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/moelzanaty3)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedelzanaty&show_icons=true&theme=dark) -->
 
