@@ -18,7 +18,7 @@ const life: MZanatyLife = {
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/moelzanaty3)
 <!-- [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio patreon.vercel.app%2Fapi%3Fusername%3Dmohammedelzanaty%26type%3Dpatrons&style=flat)](https://patreon.com/moelzanaty3) -->
 <!-- ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=moelzanaty3) -->
-[![Follow me on LinkedIn](./connect-linkedin.png)](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=moelzanaty3)
+[![Follow me on LinkedIn](https://github.com/moelzanaty3/moelzanaty3/blob/main/connect-linkedin.png)](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=moelzanaty3)
 
 
 
